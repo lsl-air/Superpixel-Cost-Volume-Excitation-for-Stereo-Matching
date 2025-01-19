@@ -1,5 +1,6 @@
 # Superpixel-Cost-Volume-Excitation-for-Stereo-Matching
-This is the implementation of the paper Superpixel Cost Volume Excitation for Stereo Matching, PRCV 24, Shanglong Liu, Lin Qi, Junyu Dong, Wenxiang Gu, Liyi Xu[\[Arxiv\]](https://arxiv.org/abs/2411.13105)
+This is the implementation of the paper Superpixel Cost Volume Excitation for Stereo Matching, PRCV 24, Shanglong Liu, Lin Qi, Junyu Dong, Wenxiang Gu, Liyi Xu[\[Arxiv\]](https://arxiv.org/abs/2411.13105).
+
 Please contact [Shanglong Liu](https://github.com/lsl-air) (ouc3251@gmail.com) if you have any questions.
 
 ## Environment
