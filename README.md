@@ -19,12 +19,14 @@ cd ../..
 [GwcNet-Sceneflow](https://pan.baidu.com/s/1pEUM0c-xZdQoAr3yBSiloQ?pwd=aqa3)
 
 ## Scene Flow Datasets
-**Training**
+**Training.**
+
 Before starting joint training, load the weights of the sub-network. The pre-trained weights should be available in the following path ```/pretrained/spixel_16/SpixelNet_bsd_ckpt.tar```.
 
 run the script `./scripts/sceneflow.sh` to train on Scene Flow datsets. Please update `DATAPATH` in the bash file as your training data path.
 
-**Testing**
+**Testing.**
+
 If only the training head is used, the sub-network can be omitted during the inference stage to maintain the same parameters and computational cost as the baseline network.
 
 ## Citation
